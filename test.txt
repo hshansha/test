@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 love and peace
+=======
+hello  everbody!
+>>>>>>> 70b8b18d1ba5658b963ff871dd8fd1b4a53497d0
